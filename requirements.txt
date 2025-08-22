@@ -13,3 +13,5 @@ numpy
 pandas
 scikit-learn
 tensorflow
+scikit-learn==1.3.0
+joblib==1.3.2
